@@ -1,0 +1,92 @@
+html {
+    cursor: url(https://static.tumblr.com/xjqjg7j/4kSmxtzss/70.gif), auto;
+    
+    }
+
+body {
+    background-image: url("https://cloverbell.neocities.org/materials/bg/rilabg.gif");
+    background-repeat: repeat-x;
+  }
+
+  div {
+    text-align: center;
+    margin-top: 200px;
+    color: burlywood;
+  }
+
+  .side {
+    height: 300px;
+    width:195px;
+   border: 5px dotted rgb(174, 107, 59);   
+   position: absolute;
+   padding: 10px;
+           bottom:75px;
+         left:178px;
+         background: transparent url(https://cloverbell.neocities.org/materials/bg/cakebg.png);
+ }
+
+  .button1 {
+    height:62px;
+    display:block;
+    background:transparent    url('https://cloverbell.neocities.org/materials/decor/biscuithouse2.gif') 
+    center top no-repeat;
+      background-repeat: no-repeat;
+      text-align: right;
+   }
+   
+   .button2 {
+    margin-bottom: 10px;
+    height:62px;
+    display:block;
+    background:transparent url('https://cloverbell.neocities.org/materials/decor/bunnyclothes.gif') 
+    center top no-repeat;
+      background-repeat: no-repeat;
+      text-align: right;
+   }
+   .button3 {
+    margin-bottom: 10px;
+    height:65px;
+    display:block;
+    background:transparent url('https://cloverbell.neocities.org/materials/decor/doll.gif') 
+    center top no-repeat;
+      background-repeat: no-repeat;
+      text-align: right;
+   }
+
+.bio {
+    background: url(https://cloverbell.neocities.org/materials/bg/ginghamcream.png);
+    width: 500px;
+    text-align: center;
+    height: 200px;
+    border: 5px dashed pink;
+    margin-left: 450px;
+    margin-top: 0px;
+    color: rgb(174, 107, 59);
+}
+.side2 {
+    height: 300px;
+    width:195px;
+   border: 5px dotted rgb(174, 107, 59);   
+   position: absolute;
+   padding: 10px;
+           bottom:75px;
+         right:178px;
+         background: transparent url(https://cloverbell.neocities.org/materials/bg/cakebg.png);
+ }
+ 
+ .aboutme {
+    background: url(https://cloverbell.neocities.org/materials/bg/ginghamcream.png);
+    width: 500px;
+    text-align: center;
+    height: 200px;
+    border: 5px dashed pink;
+    margin-left: 450px;
+    margin-top: 300px;
+    color: rgb(174, 107, 59);
+ }
+ 
+ .endofpage {
+    margin-top: 20px;
+    margin-left: 25px;
+    height: 50px;
+ }
