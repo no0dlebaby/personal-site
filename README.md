@@ -1,1 +1,1 @@
-# personal-site
+# Hello! This is my personal site project for Fullstack. On this site you can find a home, about, and portfolio page. I made 3 columns, the middle column is scrollable in pages where the text overflows. I changed the background, font color, font, borders, and cursors. I've added images for the links. 
